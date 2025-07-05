@@ -210,7 +210,7 @@ class NuevoActor implements Runnable {
 
 ## 🎭 Cultural Context
 
-This simulator captures the authentic chaos of Argentine family barbecues:
+This simulator captures the authentic chaos of Paraguay family barbecues:
 - **Asador Principal**: The designated cook (usually male)
 - **Tíos**: Uncles who "know better" and interfere
 - **Primos**: Young cousins who sneak food
